@@ -1,0 +1,2 @@
+# TrafficBot-Simulating-Smart-Traffic-Navigation-with-Reinforcement-Learning
+This repository contains the implementation of a Final Year Project in Artificial Intelligence (ICT3909) on autonomous vehicle navigation using Reinforcement Learning, specifically the Double Deep Q-Network (DDQN) and Proximal Policy Optimization (PPO) algorithms. Training was done from scratch using the CARLA simulator as the agent's environment.
